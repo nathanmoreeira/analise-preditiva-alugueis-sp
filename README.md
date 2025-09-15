@@ -12,6 +12,8 @@ Este projeto de ciência de dados tem como objetivo construir um modelo de Machi
 
 O foco principal é demonstrar o processo de investigação, tratamento de dados do mundo real, identificação de features relevantes e a avaliação crítica da performance de um modelo preditivo.
 
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1swRLjGmYgA8u6JTn2hgvE1UpO8KD0nn2?usp=sharing)
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
